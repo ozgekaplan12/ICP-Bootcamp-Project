@@ -43,4 +43,6 @@ fn main() {
     } else {
         println!("The war ended in a draw!");
     }
+
+    
 }
